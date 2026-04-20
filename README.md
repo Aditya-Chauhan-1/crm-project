@@ -41,7 +41,7 @@ src/
 ⚙️ Installation & Setup
 
 1. Clone the repository
-   git clone https://github.com/Aditya-Chauhan-1/crm-project.git
+   git clone https://github.com/Aditya-Chauhan-1/crm-project
 
 2. Open in IDE (IntelliJ / Eclipse)
 
